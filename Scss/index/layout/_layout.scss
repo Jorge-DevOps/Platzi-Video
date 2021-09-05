@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	margin: 0;
+	background-color:  $login-primary-color-2;
+	font-family: $base-font;
+	font-size: $base-fontSize;
+	font-weight: 400;
+}

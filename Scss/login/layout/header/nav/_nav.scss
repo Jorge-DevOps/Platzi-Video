@@ -1,0 +1,22 @@
+.nav {
+  position: relative;
+  float: right;
+  z-index: 2;
+}
+
+.nav__list {
+  float: right;
+}
+
+.nav__item {
+  margin: auto;
+  padding: 2px;
+  display: inline-block;
+}
+
+.nav__item a {
+  color: $color-font;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	margin: 0;
+	font-family: $base-font;
+	font-size: $base-fontSize;
+	background:linear-gradient($login-primary-color,$login-primary-color-2 );
+
+	font-weight: 400;
+}
+html,body{
+height:100vh;
+}
